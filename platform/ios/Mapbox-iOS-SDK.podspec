@@ -12,7 +12,7 @@ Pod::Spec.new do |m|
   m.social_media_url  = 'https://twitter.com/mapbox'
   m.documentation_url = 'https://docs.mapbox.com/ios/api/maps/'
 
-  m.source = { :http => "https://github.com/DroidsOnRoids/mapbox-gl-native-ios/releases/download/5.9.0-1/mapbox-ios-sdk-5.9.0-xcframework.zip" }
+  m.source = { :http => "https://github.com/lamah-co/mapbox-gl-native-ios/releases/download/5.9.0-1/mapbox-ios-sdk-5.9.0-xcframework.zip" }
 
   m.platform              = :ios
   m.ios.deployment_target = '9.0'
